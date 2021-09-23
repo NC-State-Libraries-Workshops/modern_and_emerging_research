@@ -10,3 +10,4 @@ This is the home page for the Workshop Series.
 * Beginning R
 * Best Practices in Data Management
 * Introduction to LaTeX (in progress)
+* [Copyright and Licensing Basics](https://sites.google.com/ncsu.edu/ncsucopyrightworkshop/home)
